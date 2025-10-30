@@ -1,4 +1,4 @@
-import type { ITask } from "./interface";
+import type { ITask } from "../Interfaces/interface";
 
 interface Props {
   task: ITask;
